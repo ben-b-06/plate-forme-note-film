@@ -1,0 +1,35 @@
+# Déploiement « Blueprint » sur Render (https://render.com) : New + > Blueprint > ce dépôt.
+# Le disque persistant (base SQLite) nécessite une offre payante (Starter).
+services:
+  - type: web
+    name: cinenote
+    runtime: docker
+    plan: starter
+    healthCheckPath: /healthz
+    disk:
+      name: data
+      mountPath: /data
+      sizeGB: 1
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PUBLIC_URL
+        sync: false
+      - key: ADMIN_EMAILS
+        sync: false
+      - key: TMDB_API_KEY
+        sync: false
+      - key: OMDB_API_KEY
+        sync: false
+      - key: SYNC_SECRET
+        generateValue: true
+      - key: ADSENSE_CLIENT
+        sync: false
+      - key: ADSENSE_SLOT_BANNER
+        sync: false
+      - key: STRIPE_SECRET_KEY
+        sync: false
+      - key: STRIPE_WEBHOOK_SECRET
+        sync: false
+      - key: STRIPE_PRICE_ID
+        sync: false
