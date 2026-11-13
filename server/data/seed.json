@@ -1,0 +1,1079 @@
+{
+ "_note": "Catalogue de départ (sans notes externes). Les affiches, épisodes complets et notes des plateformes sont ajoutés par la synchronisation (TVmaze, TMDB, OMDb).",
+ "titles": [
+  {
+   "type": "movie",
+   "title": "Inception",
+   "original_title": "Inception",
+   "year": 2010,
+   "genres": [
+    "Science-fiction",
+    "Action",
+    "Thriller"
+   ],
+   "imdb_id": "tt1375666",
+   "popularity": 88,
+   "overview": "Un voleur spécialisé dans l'extraction de secrets au cœur des rêves se voit confier la mission inverse : implanter une idée dans l'esprit d'un héritier."
+  },
+  {
+   "type": "movie",
+   "title": "The Dark Knight : Le Chevalier noir",
+   "original_title": "The Dark Knight",
+   "year": 2008,
+   "genres": [
+    "Action",
+    "Crime",
+    "Drame"
+   ],
+   "imdb_id": "tt0468569",
+   "popularity": 86,
+   "overview": "Batman, épaulé par le lieutenant Gordon et le procureur Harvey Dent, affronte le Joker, un criminel décidé à plonger Gotham dans le chaos."
+  },
+  {
+   "type": "movie",
+   "title": "Interstellar",
+   "original_title": "Interstellar",
+   "year": 2014,
+   "genres": [
+    "Science-fiction",
+    "Aventure",
+    "Drame"
+   ],
+   "imdb_id": "tt0816692",
+   "popularity": 90,
+   "overview": "Alors que la Terre se meurt, un ancien pilote rejoint une expédition qui franchit un trou de ver à la recherche d'une nouvelle planète habitable."
+  },
+  {
+   "type": "movie",
+   "title": "Parasite",
+   "original_title": "Gisaengchung",
+   "year": 2019,
+   "genres": [
+    "Thriller",
+    "Drame",
+    "Comédie"
+   ],
+   "imdb_id": "tt6751668",
+   "popularity": 80,
+   "overview": "Une famille sans le sou s'infiltre, un membre après l'autre, au service d'une riche famille de Séoul."
+  },
+  {
+   "type": "movie",
+   "title": "Les Évadés",
+   "original_title": "The Shawshank Redemption",
+   "year": 1994,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "imdb_id": "tt0111161",
+   "popularity": 78,
+   "overview": "Condamné à perpétuité pour un double meurtre qu'il affirme ne pas avoir commis, un banquier se lie d'amitié avec un autre détenu au fil des années."
+  },
+  {
+   "type": "movie",
+   "title": "Pulp Fiction",
+   "original_title": "Pulp Fiction",
+   "year": 1994,
+   "genres": [
+    "Crime",
+    "Thriller"
+   ],
+   "imdb_id": "tt0110912",
+   "popularity": 76,
+   "overview": "Les destins de deux tueurs à gages, d'un boxeur et d'un couple de braqueurs s'entremêlent à Los Angeles."
+  },
+  {
+   "type": "movie",
+   "title": "Matrix",
+   "original_title": "The Matrix",
+   "year": 1999,
+   "genres": [
+    "Science-fiction",
+    "Action"
+   ],
+   "imdb_id": "tt0133093",
+   "popularity": 82,
+   "overview": "Un pirate informatique découvre que le monde qu'il connaît est une simulation et rejoint une rébellion contre les machines."
+  },
+  {
+   "type": "movie",
+   "title": "Fight Club",
+   "original_title": "Fight Club",
+   "year": 1999,
+   "genres": [
+    "Drame",
+    "Thriller"
+   ],
+   "imdb_id": "tt0137523",
+   "popularity": 74,
+   "overview": "Un employé de bureau insomniaque et un vendeur de savon charismatique fondent un club de combat clandestin."
+  },
+  {
+   "type": "movie",
+   "title": "Le Fabuleux Destin d'Amélie Poulain",
+   "original_title": "Le Fabuleux Destin d'Amélie Poulain",
+   "year": 2001,
+   "genres": [
+    "Comédie",
+    "Romance"
+   ],
+   "imdb_id": "tt0211915",
+   "popularity": 70,
+   "overview": "Serveuse dans un café de Montmartre, Amélie décide de réparer discrètement la vie des gens qui l'entourent."
+  },
+  {
+   "type": "movie",
+   "title": "Intouchables",
+   "original_title": "Intouchables",
+   "year": 2011,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "imdb_id": "tt1675434",
+   "popularity": 75,
+   "overview": "Un riche aristocrate tétraplégique engage comme aide à domicile un jeune homme de banlieue tout juste sorti de prison."
+  },
+  {
+   "type": "movie",
+   "title": "Le Voyage de Chihiro",
+   "original_title": "Sen to Chihiro no kamikakushi",
+   "year": 2001,
+   "genres": [
+    "Animation",
+    "Fantastique",
+    "Famille"
+   ],
+   "imdb_id": "tt0245429",
+   "popularity": 79,
+   "overview": "Égarée dans un monde d'esprits, une fillette doit travailler dans des bains publics magiques pour sauver ses parents."
+  },
+  {
+   "type": "movie",
+   "title": "Le Parrain",
+   "original_title": "The Godfather",
+   "year": 1972,
+   "genres": [
+    "Crime",
+    "Drame"
+   ],
+   "imdb_id": "tt0068646",
+   "popularity": 77,
+   "overview": "Le patriarche d'une famille mafieuse new-yorkaise transmet peu à peu son empire à son fils cadet, d'abord réticent."
+  },
+  {
+   "type": "movie",
+   "title": "Forrest Gump",
+   "original_title": "Forrest Gump",
+   "year": 1994,
+   "genres": [
+    "Drame",
+    "Romance",
+    "Comédie"
+   ],
+   "imdb_id": "tt0109830",
+   "popularity": 76,
+   "overview": "Un homme simple et attachant traverse plusieurs décennies d'histoire américaine sans jamais cesser de penser à son amour d'enfance."
+  },
+  {
+   "type": "movie",
+   "title": "Gladiator",
+   "original_title": "Gladiator",
+   "year": 2000,
+   "genres": [
+    "Action",
+    "Drame",
+    "Aventure"
+   ],
+   "imdb_id": "tt0172495",
+   "popularity": 78,
+   "overview": "Trahi et réduit en esclavage, un général romain devient gladiateur pour se venger de l'empereur qui a fait assassiner sa famille."
+  },
+  {
+   "type": "movie",
+   "title": "Whiplash",
+   "original_title": "Whiplash",
+   "year": 2014,
+   "genres": [
+    "Drame",
+    "Musique"
+   ],
+   "imdb_id": "tt2582802",
+   "popularity": 68,
+   "overview": "Un jeune batteur de jazz ambitieux subit les méthodes impitoyables d'un professeur de conservatoire."
+  },
+  {
+   "type": "movie",
+   "title": "La La Land",
+   "original_title": "La La Land",
+   "year": 2016,
+   "genres": [
+    "Romance",
+    "Comédie",
+    "Musique",
+    "Drame"
+   ],
+   "imdb_id": "tt3783958",
+   "popularity": 69,
+   "overview": "À Los Angeles, une actrice en devenir et un pianiste de jazz tombent amoureux tout en poursuivant leurs rêves."
+  },
+  {
+   "type": "movie",
+   "title": "Mad Max: Fury Road",
+   "original_title": "Mad Max: Fury Road",
+   "year": 2015,
+   "genres": [
+    "Action",
+    "Aventure",
+    "Science-fiction"
+   ],
+   "imdb_id": "tt1392190",
+   "popularity": 72,
+   "overview": "Dans un désert post-apocalyptique, Max et l'impératrice Furiosa fuient un tyran à bord d'un camion de guerre."
+  },
+  {
+   "type": "movie",
+   "title": "Get Out",
+   "original_title": "Get Out",
+   "year": 2017,
+   "genres": [
+    "Horreur",
+    "Thriller",
+    "Mystère"
+   ],
+   "imdb_id": "tt5052448",
+   "popularity": 66,
+   "overview": "Un jeune homme noir rend visite à la famille de sa petite amie blanche et découvre que l'accueil chaleureux cache un terrible secret."
+  },
+  {
+   "type": "movie",
+   "title": "Dune",
+   "original_title": "Dune",
+   "year": 2021,
+   "genres": [
+    "Science-fiction",
+    "Aventure"
+   ],
+   "imdb_id": "tt1160419",
+   "popularity": 84,
+   "overview": "Héritier d'une grande maison, Paul Atréides arrive sur Arrakis, planète désertique convoitée pour sa précieuse épice."
+  },
+  {
+   "type": "movie",
+   "title": "Dune : Deuxième partie",
+   "original_title": "Dune: Part Two",
+   "year": 2024,
+   "genres": [
+    "Science-fiction",
+    "Aventure"
+   ],
+   "imdb_id": "tt15239678",
+   "popularity": 89,
+   "overview": "Paul Atréides s'allie aux Fremen et à Chani pour mener sa revanche contre ceux qui ont détruit sa famille."
+  },
+  {
+   "type": "movie",
+   "title": "Oppenheimer",
+   "original_title": "Oppenheimer",
+   "year": 2023,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "imdb_id": "tt15398776",
+   "popularity": 87,
+   "overview": "Le portrait du physicien J. Robert Oppenheimer et du projet Manhattan, qui a donné naissance à la bombe atomique."
+  },
+  {
+   "type": "movie",
+   "title": "Everything Everywhere All at Once",
+   "original_title": "Everything Everywhere All at Once",
+   "year": 2022,
+   "genres": [
+    "Science-fiction",
+    "Comédie",
+    "Action"
+   ],
+   "imdb_id": "tt6710474",
+   "popularity": 71,
+   "overview": "Une gérante de laverie dépassée par ses impôts découvre qu'elle peut accéder aux vies de ses versions parallèles."
+  },
+  {
+   "type": "movie",
+   "title": "Spider-Man : New Generation",
+   "original_title": "Spider-Man: Into the Spider-Verse",
+   "year": 2018,
+   "genres": [
+    "Animation",
+    "Action",
+    "Aventure"
+   ],
+   "imdb_id": "tt4633694",
+   "popularity": 73,
+   "overview": "L'adolescent Miles Morales devient Spider-Man et croise d'autres héros araignées venus d'univers parallèles."
+  },
+  {
+   "type": "movie",
+   "title": "Coco",
+   "original_title": "Coco",
+   "year": 2017,
+   "genres": [
+    "Animation",
+    "Famille",
+    "Musique",
+    "Fantastique"
+   ],
+   "imdb_id": "tt2380307",
+   "popularity": 72,
+   "overview": "Passionné de musique, le jeune Miguel se retrouve au Pays des Morts, où il part à la recherche de son arrière-arrière-grand-père."
+  },
+  {
+   "type": "movie",
+   "title": "Joker",
+   "original_title": "Joker",
+   "year": 2019,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Thriller"
+   ],
+   "imdb_id": "tt7286456",
+   "popularity": 80,
+   "overview": "À Gotham, un comédien raté et marginalisé sombre peu à peu dans la folie et la violence."
+  },
+  {
+   "type": "movie",
+   "title": "Blade Runner 2049",
+   "original_title": "Blade Runner 2049",
+   "year": 2017,
+   "genres": [
+    "Science-fiction",
+    "Drame"
+   ],
+   "imdb_id": "tt1856101",
+   "popularity": 70,
+   "overview": "Trente ans après le premier film, un blade runner découvre un secret capable de bouleverser l'équilibre entre humains et réplicants."
+  },
+  {
+   "type": "movie",
+   "title": "The Grand Budapest Hotel",
+   "original_title": "The Grand Budapest Hotel",
+   "year": 2014,
+   "genres": [
+    "Comédie",
+    "Aventure"
+   ],
+   "imdb_id": "tt2278388",
+   "popularity": 65,
+   "overview": "Le concierge d'un palace d'Europe centrale et son jeune groom sont mêlés au vol d'un tableau et à une querelle d'héritage."
+  },
+  {
+   "type": "movie",
+   "title": "Toy Story",
+   "original_title": "Toy Story",
+   "year": 1995,
+   "genres": [
+    "Animation",
+    "Famille",
+    "Comédie"
+   ],
+   "imdb_id": "tt0114709",
+   "popularity": 67,
+   "overview": "Woody, le jouet préféré d'Andy, voit sa place menacée par l'arrivée de Buzz l'Éclair, un ranger de l'espace."
+  },
+  {
+   "type": "movie",
+   "title": "Alien, le huitième passager",
+   "original_title": "Alien",
+   "year": 1979,
+   "genres": [
+    "Horreur",
+    "Science-fiction"
+   ],
+   "imdb_id": "tt0078748",
+   "popularity": 64,
+   "overview": "L'équipage d'un cargo spatial est traqué par une créature extraterrestre montée à bord."
+  },
+  {
+   "type": "movie",
+   "title": "Le Dîner de cons",
+   "original_title": "Le Dîner de cons",
+   "year": 1998,
+   "genres": [
+    "Comédie"
+   ],
+   "imdb_id": "tt0119038",
+   "popularity": 60,
+   "overview": "Un éditeur parisien qui participe chaque semaine à un dîner moqueur invite un passionné de maquettes en allumettes… qui va lui gâcher la soirée."
+  },
+  {
+   "type": "movie",
+   "title": "La Haine",
+   "original_title": "La Haine",
+   "year": 1995,
+   "genres": [
+    "Drame",
+    "Crime"
+   ],
+   "imdb_id": "tt0113247",
+   "popularity": 58,
+   "overview": "Vingt-quatre heures dans la vie de trois jeunes d'une cité de banlieue parisienne, au lendemain d'une nuit d'émeutes."
+  },
+  {
+   "type": "movie",
+   "title": "Le Seigneur des anneaux : La Communauté de l'anneau",
+   "original_title": "The Lord of the Rings: The Fellowship of the Ring",
+   "year": 2001,
+   "genres": [
+    "Aventure",
+    "Fantastique",
+    "Action"
+   ],
+   "imdb_id": "tt0120737",
+   "popularity": 83,
+   "overview": "Le hobbit Frodon et ses compagnons entreprennent un long voyage pour détruire l'Anneau unique."
+  },
+  {
+   "type": "movie",
+   "title": "Avengers: Endgame",
+   "original_title": "Avengers: Endgame",
+   "year": 2019,
+   "genres": [
+    "Action",
+    "Aventure",
+    "Science-fiction"
+   ],
+   "imdb_id": "tt4154796",
+   "popularity": 81,
+   "overview": "Après la victoire de Thanos, les Avengers survivants tentent l'impossible pour inverser la disparition de la moitié de l'univers."
+  },
+  {
+   "type": "movie",
+   "title": "Titanic",
+   "original_title": "Titanic",
+   "year": 1997,
+   "genres": [
+    "Drame",
+    "Romance"
+   ],
+   "imdb_id": "tt0120338",
+   "popularity": 74,
+   "overview": "À bord du célèbre paquebot, une jeune aristocrate et un artiste sans le sou vivent une histoire d'amour avant le naufrage."
+  },
+  {
+   "type": "movie",
+   "title": "Your Name.",
+   "original_title": "Kimi no na wa.",
+   "year": 2016,
+   "genres": [
+    "Animation",
+    "Romance",
+    "Fantastique"
+   ],
+   "imdb_id": "tt5311514",
+   "popularity": 68,
+   "overview": "Un lycéen de Tokyo et une lycéenne de la campagne échangent mystérieusement leurs corps pendant leur sommeil."
+  },
+  {
+   "type": "movie",
+   "title": "Top Gun : Maverick",
+   "original_title": "Top Gun: Maverick",
+   "year": 2022,
+   "genres": [
+    "Action",
+    "Drame"
+   ],
+   "imdb_id": "tt1745960",
+   "popularity": 79,
+   "overview": "Le pilote Pete « Maverick » Mitchell forme une nouvelle génération d'aviateurs pour une mission à haut risque."
+  },
+  {
+   "type": "movie",
+   "title": "Anatomie d'une chute",
+   "original_title": "Anatomie d'une chute",
+   "year": 2023,
+   "genres": [
+    "Drame",
+    "Thriller",
+    "Crime"
+   ],
+   "imdb_id": "tt17009710",
+   "popularity": 66,
+   "overview": "Une romancière est soupçonnée de la mort de son mari, retrouvé au pied de leur chalet ; leur fils malvoyant est le seul témoin."
+  },
+  {
+   "type": "movie",
+   "title": "Barbie",
+   "original_title": "Barbie",
+   "year": 2023,
+   "genres": [
+    "Comédie",
+    "Aventure",
+    "Fantastique"
+   ],
+   "imdb_id": "tt1517268",
+   "popularity": 77,
+   "overview": "Après une crise existentielle, Barbie quitte Barbieland pour le monde réel, accompagnée de Ken."
+  },
+  {
+   "type": "series",
+   "title": "Breaking Bad",
+   "original_title": "Breaking Bad",
+   "year": 2008,
+   "end_year": 2013,
+   "genres": [
+    "Drame",
+    "Crime",
+    "Thriller"
+   ],
+   "imdb_id": "tt0903747",
+   "network": "AMC",
+   "popularity": 92,
+   "overview": "Un professeur de chimie atteint d'un cancer se lance dans la fabrication de méthamphétamine pour assurer l'avenir de sa famille.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Pilot",
+      "Cat's in the Bag...",
+      "...And the Bag's in the River",
+      "Cancer Man",
+      "Gray Matter",
+      "Crazy Handful of Nothin'",
+      "A No-Rough-Stuff-Type Deal"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Game of Thrones",
+   "original_title": "Game of Thrones",
+   "year": 2011,
+   "end_year": 2019,
+   "genres": [
+    "Drame",
+    "Fantastique",
+    "Aventure"
+   ],
+   "imdb_id": "tt0944947",
+   "network": "HBO",
+   "popularity": 91,
+   "overview": "Des familles nobles se disputent le Trône de fer des Sept Couronnes, tandis qu'une menace ancienne s'éveille au-delà du Mur.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Winter Is Coming",
+      "The Kingsroad",
+      "Lord Snow",
+      "Cripples, Bastards, and Broken Things",
+      "The Wolf and the Lion",
+      "A Golden Crown",
+      "You Win or You Die",
+      "The Pointy End",
+      "Baelor",
+      "Fire and Blood"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Stranger Things",
+   "original_title": "Stranger Things",
+   "year": 2016,
+   "end_year": null,
+   "genres": [
+    "Science-fiction",
+    "Horreur",
+    "Drame",
+    "Mystère"
+   ],
+   "imdb_id": "tt4574334",
+   "network": "Netflix",
+   "popularity": 90,
+   "overview": "Dans une petite ville de l'Indiana, la disparition d'un garçon révèle des expériences secrètes et un monde parallèle terrifiant.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Chapter One: The Vanishing of Will Byers",
+      "Chapter Two: The Weirdo on Maple Street",
+      "Chapter Three: Holly, Jolly",
+      "Chapter Four: The Body",
+      "Chapter Five: The Flea and the Acrobat",
+      "Chapter Six: The Monster",
+      "Chapter Seven: The Bathtub",
+      "Chapter Eight: The Upside Down"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Chernobyl",
+   "original_title": "Chernobyl",
+   "year": 2019,
+   "end_year": 2019,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "imdb_id": "tt7366338",
+   "network": "HBO",
+   "popularity": 80,
+   "overview": "Le récit de la catastrophe nucléaire d'avril 1986 et des sacrifices consentis pour en limiter les conséquences.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "1:23:45",
+      "Please Remain Calm",
+      "Open Wide, O Earth",
+      "The Happiness of All Mankind",
+      "Vichnaya Pamyat"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Sherlock",
+   "original_title": "Sherlock",
+   "year": 2010,
+   "end_year": 2017,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Mystère"
+   ],
+   "imdb_id": "tt1475582",
+   "network": "BBC One",
+   "popularity": 79,
+   "overview": "Sherlock Holmes et le docteur Watson résolvent des énigmes criminelles dans le Londres d'aujourd'hui.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "A Study in Pink",
+      "The Blind Banker",
+      "The Great Game"
+     ]
+    },
+    {
+     "season_number": 2,
+     "episodes": [
+      "A Scandal in Belgravia",
+      "The Hounds of Baskerville",
+      "The Reichenbach Fall"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Dark",
+   "original_title": "Dark",
+   "year": 2017,
+   "end_year": 2020,
+   "genres": [
+    "Science-fiction",
+    "Thriller",
+    "Mystère",
+    "Drame"
+   ],
+   "imdb_id": "tt5753856",
+   "network": "Netflix",
+   "popularity": 78,
+   "overview": "La disparition de deux enfants dans une petite ville allemande révèle les liens troubles de quatre familles à travers le temps.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Secrets",
+      "Lies",
+      "Past and Present",
+      "Double Lives",
+      "Truths",
+      "Sic Mundus Creatus Est",
+      "Crossroads",
+      "As You Sow, so You Shall Reap",
+      "Everything Is Now",
+      "Alpha and Omega"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "The Mandalorian",
+   "original_title": "The Mandalorian",
+   "year": 2019,
+   "end_year": null,
+   "genres": [
+    "Science-fiction",
+    "Action",
+    "Aventure"
+   ],
+   "imdb_id": "tt8111088",
+   "network": "Disney+",
+   "popularity": 82,
+   "overview": "Un chasseur de primes solitaire parcourt les confins de la galaxie, loin de l'autorité de la Nouvelle République.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Chapter 1: The Mandalorian",
+      "Chapter 2: The Child",
+      "Chapter 3: The Sin",
+      "Chapter 4: Sanctuary",
+      "Chapter 5: The Gunslinger",
+      "Chapter 6: The Prisoner",
+      "Chapter 7: The Reckoning",
+      "Chapter 8: Redemption"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Arcane",
+   "original_title": "Arcane",
+   "year": 2021,
+   "end_year": 2024,
+   "genres": [
+    "Animation",
+    "Action",
+    "Science-fiction",
+    "Fantastique",
+    "Drame"
+   ],
+   "imdb_id": "tt11126994",
+   "network": "Netflix",
+   "popularity": 84,
+   "overview": "Entre la cité prospère de Piltover et les bas-fonds de Zaun, deux sœurs se retrouvent dans des camps opposés.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Welcome to the Playground",
+      "Some Mysteries Are Better Left Unsolved",
+      "The Base Violence Necessary for Change",
+      "Happy Progress Day!",
+      "Everybody Wants to Be My Enemy",
+      "When These Walls Come Tumbling Down",
+      "The Boy Savior",
+      "Oil and Water",
+      "The Monster You Created"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "True Detective",
+   "original_title": "True Detective",
+   "year": 2014,
+   "end_year": null,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Mystère"
+   ],
+   "imdb_id": "tt2356777",
+   "network": "HBO",
+   "popularity": 73,
+   "overview": "Anthologie policière : chaque saison suit des enquêteurs confrontés à une affaire qui les hante.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "The Long Bright Dark",
+      "Seeing Things",
+      "The Locked Room",
+      "Who Goes There",
+      "The Secret Fate of All Life",
+      "Haunted Houses",
+      "After You've Gone",
+      "Form and Void"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "The Office",
+   "original_title": "The Office",
+   "year": 2005,
+   "end_year": 2013,
+   "genres": [
+    "Comédie"
+   ],
+   "imdb_id": "tt0386676",
+   "network": "NBC",
+   "popularity": 81,
+   "overview": "Le quotidien des employés d'une agence de vente de papier, filmé à la manière d'un documentaire.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Pilot",
+      "Diversity Day",
+      "Health Care",
+      "The Alliance",
+      "Basketball",
+      "Hot Girl"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Friends",
+   "original_title": "Friends",
+   "year": 1994,
+   "end_year": 2004,
+   "genres": [
+    "Comédie",
+    "Romance"
+   ],
+   "imdb_id": "tt0108778",
+   "network": "NBC",
+   "popularity": 85,
+   "overview": "Six amis new-yorkais partagent leurs histoires d'amour, de travail et de colocation.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Severance",
+   "original_title": "Severance",
+   "year": 2022,
+   "end_year": null,
+   "genres": [
+    "Science-fiction",
+    "Thriller",
+    "Drame",
+    "Mystère"
+   ],
+   "imdb_id": "tt11280740",
+   "network": "Apple TV+",
+   "popularity": 83,
+   "overview": "Les employés d'une mystérieuse entreprise ont subi une opération qui sépare leurs souvenirs professionnels de leur vie privée.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Good News About Hell",
+      "Half Loop",
+      "In Perpetuity",
+      "The You You Are",
+      "The Grim Barbarity of Optics and Design",
+      "Hide and Seek",
+      "Defiant Jazz",
+      "What's for Dinner?",
+      "The We We Are"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "The Last of Us",
+   "original_title": "The Last of Us",
+   "year": 2023,
+   "end_year": null,
+   "genres": [
+    "Drame",
+    "Action",
+    "Aventure",
+    "Science-fiction"
+   ],
+   "imdb_id": "tt3581920",
+   "network": "HBO",
+   "popularity": 87,
+   "overview": "Vingt ans après une pandémie, un survivant endurci escorte une adolescente à travers des États-Unis dévastés.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "When You're Lost in the Darkness",
+      "Infected",
+      "Long, Long Time",
+      "Please Hold to My Hand",
+      "Endure and Survive",
+      "Kin",
+      "Left Behind",
+      "When We Are in Need",
+      "Look for the Light"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Squid Game",
+   "original_title": "Ojingeo geim",
+   "year": 2021,
+   "end_year": 2025,
+   "genres": [
+    "Thriller",
+    "Drame",
+    "Action"
+   ],
+   "imdb_id": "tt10919420",
+   "network": "Netflix",
+   "popularity": 86,
+   "overview": "Des centaines de personnes criblées de dettes acceptent de participer à des jeux d'enfants mortels pour remporter une fortune.",
+   "seasons": [
+    {
+     "season_number": 1,
+     "episodes": [
+      "Red Light, Green Light",
+      "Hell",
+      "The Man with the Umbrella",
+      "Stick to the Team",
+      "A Fair World",
+      "Gganbu",
+      "VIPS",
+      "Front Man",
+      "One Lucky Day"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "series",
+   "title": "Lupin",
+   "original_title": "Lupin",
+   "year": 2021,
+   "end_year": null,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Mystère"
+   ],
+   "imdb_id": "tt2531336",
+   "network": "Netflix",
+   "popularity": 74,
+   "overview": "Inspiré par les aventures d'Arsène Lupin, Assane Diop entreprend de venger son père, accusé d'un crime qu'il n'a pas commis.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Le Bureau des légendes",
+   "original_title": "Le Bureau des légendes",
+   "year": 2015,
+   "end_year": 2020,
+   "genres": [
+    "Drame",
+    "Thriller",
+    "Espionnage"
+   ],
+   "imdb_id": "tt4816058",
+   "network": "Canal+",
+   "popularity": 68,
+   "overview": "Au cœur de la DGSE, le quotidien des agents clandestins chargés de vivre sous une fausse identité.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "The Crown",
+   "original_title": "The Crown",
+   "year": 2016,
+   "end_year": 2023,
+   "genres": [
+    "Drame",
+    "Histoire"
+   ],
+   "imdb_id": "tt4786824",
+   "network": "Netflix",
+   "popularity": 72,
+   "overview": "La vie de la reine Élisabeth II, des premières années de son règne jusqu'au début des années 2000.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "The Bear",
+   "original_title": "The Bear",
+   "year": 2022,
+   "end_year": null,
+   "genres": [
+    "Comédie",
+    "Drame"
+   ],
+   "imdb_id": "tt14452776",
+   "network": "FX",
+   "popularity": 76,
+   "overview": "Un jeune chef de la haute gastronomie revient à Chicago pour reprendre la sandwicherie familiale de son frère disparu.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Better Call Saul",
+   "original_title": "Better Call Saul",
+   "year": 2015,
+   "end_year": 2022,
+   "genres": [
+    "Crime",
+    "Drame"
+   ],
+   "imdb_id": "tt3032476",
+   "network": "AMC",
+   "popularity": 77,
+   "overview": "Avant de devenir l'avocat véreux de Breaking Bad, Jimmy McGill tente de se faire une place dans le monde judiciaire d'Albuquerque.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Peaky Blinders",
+   "original_title": "Peaky Blinders",
+   "year": 2013,
+   "end_year": 2022,
+   "genres": [
+    "Crime",
+    "Drame",
+    "Histoire"
+   ],
+   "imdb_id": "tt2442560",
+   "network": "BBC",
+   "popularity": 78,
+   "overview": "Dans le Birmingham de l'après-guerre, la famille Shelby bâtit un empire criminel.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Succession",
+   "original_title": "Succession",
+   "year": 2018,
+   "end_year": 2023,
+   "genres": [
+    "Drame",
+    "Comédie"
+   ],
+   "imdb_id": "tt7660850",
+   "network": "HBO",
+   "popularity": 75,
+   "overview": "Les enfants d'un magnat des médias vieillissant se livrent une guerre sans merci pour le contrôle de l'empire familial.",
+   "seasons": []
+  },
+  {
+   "type": "series",
+   "title": "Mercredi",
+   "original_title": "Wednesday",
+   "year": 2022,
+   "end_year": null,
+   "genres": [
+    "Comédie",
+    "Mystère",
+    "Fantastique"
+   ],
+   "imdb_id": "tt13443470",
+   "network": "Netflix",
+   "popularity": 80,
+   "overview": "Wednesday Addams intègre l'académie Nevermore, où elle enquête sur une série de meurtres.",
+   "seasons": []
+  }
+ ]
+}
